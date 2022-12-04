@@ -7,6 +7,10 @@ import solidJs from "@astrojs/solid-js";
 import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
+
+// https://astro.build/config
+
+// https://astro.build/config
 export default defineConfig({
   base: 'code',
   integrations: [solidJs(), tailwind()]
